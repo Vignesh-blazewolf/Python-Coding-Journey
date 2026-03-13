@@ -6,3 +6,4 @@ The goal of this repository is to track my progress, improve coding skills, and 
 Added variables and data types programs
 Added conditional statements programs
 Added operators programs
+Added for loop and while loop programs 
