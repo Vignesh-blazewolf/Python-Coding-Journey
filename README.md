@@ -5,3 +5,4 @@ Each file represents a topics that are all I practiced while building a strong f
 The goal of this repository is to track my progress, improve coding skills, and maintain structured practice programs.
 Added variables and data types programs
 Added conditional statements programs
+Added operators programs
