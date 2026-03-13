@@ -4,3 +4,4 @@ This repository documents are my Python learning journey, starting from the fund
 Each file represents a topics that are all I practiced while building a strong foundation in Python programming.
 The goal of this repository is to track my progress, improve coding skills, and maintain structured practice programs.
 Added variables and data types programs
+Added conditional statements programs
