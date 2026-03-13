@@ -8,3 +8,4 @@ Added conditional statements programs
 Added operators programs
 Added for loop and while loop programs 
 Added lists, tuple, set, dictionary programs
+Added functions programs
