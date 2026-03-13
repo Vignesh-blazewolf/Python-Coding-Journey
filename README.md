@@ -12,3 +12,4 @@ Added functions programs
 Added error handling programs
 Added file handling programs
 Added OOPS concepts: encapsulation
+Added inheritance and polymorphism programs
