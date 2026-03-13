@@ -7,3 +7,4 @@ Added variables and data types programs
 Added conditional statements programs
 Added operators programs
 Added for loop and while loop programs 
+Added lists, tuple, set, dictionary programs
