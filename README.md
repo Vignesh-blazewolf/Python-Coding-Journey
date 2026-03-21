@@ -68,6 +68,50 @@ Added inheritance programs
 --> Decorators
 --> Modules & Packages
 
+**Repository Structure**
+
+**Python Learning**
+
+**1.Basics**
+--> variables
+--> data types
+--> input_output
+**2.Control Flow**
+--> if_else statements
+--> loops
+**3.Functions**
+--> lambda
+--> recursion
+**4.Data_Structures**
+--> lists
+--> tuples
+--> sets
+--> dictionaries
+**5.Oops concepts**
+--> classes_objects
+--> inheritance
+--> polymorphism
+--> abstraction
+**6.File Handling**
+--> file_read_write
+--> csv_json
+**7.Exception Handling**
+--> try_except
+
+**Technologies Used**
+--> Python
+--> VS Code
+--> Git & GitHub
+
+**Future Enhancements**
+--> Add advanced Python projects
+--> Work with APIs(requests library)
+--> Learn frameworks like Flask/Django
+--> Add database integration(MySQL)
+--> Include unit testing
+--> Deploy Python applications
+
+
 
 
 
