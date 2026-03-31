@@ -118,6 +118,7 @@ Added inheritance programs
 --> Deploy Python applications
 
 **Day 1 Progress**
+--> Learned Python basics
 **AUTHOR**
 
 **VIGNESHWARAN**
