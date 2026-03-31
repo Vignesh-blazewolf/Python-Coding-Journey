@@ -121,6 +121,7 @@ Added inheritance programs
 --> Learned Python basics
 --> Practiced 15 examples
 --> Covered input, conditions, loops
+
 **AUTHOR**
 
 **VIGNESHWARAN**
