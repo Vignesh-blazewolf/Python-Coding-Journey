@@ -120,6 +120,7 @@ Added inheritance programs
 **Day 1 Progress**
 --> Learned Python basics
 --> Practiced 15 examples
+--> Covered input, conditions, loops
 **AUTHOR**
 
 **VIGNESHWARAN**
