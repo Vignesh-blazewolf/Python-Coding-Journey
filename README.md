@@ -123,6 +123,7 @@ Added inheritance programs
 --> Covered input, conditions, loops
 
 **Day 2 Progress**
+--> Learned conditional statements
 
 **AUTHOR**
 
