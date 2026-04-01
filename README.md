@@ -122,7 +122,7 @@ Added inheritance programs
 --> Practiced 15 examples
 --> Covered input, conditions, loops
 
- Day 2 Progress
+**Day 2 Progress**
 
 **AUTHOR**
 
