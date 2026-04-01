@@ -124,6 +124,7 @@ Added inheritance programs
 
 **Day 2 Progress**
 --> Learned conditional statements
+--> Practiced 10 logic problems
 
 **AUTHOR**
 
