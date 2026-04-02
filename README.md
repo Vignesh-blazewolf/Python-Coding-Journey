@@ -127,7 +127,7 @@ Added inheritance programs
 --> Practiced 10 logic problems
 --> Used logical operators
 
-Day 3 Progress
+**Day 3 Progress**
 
 **AUTHOR**
 
