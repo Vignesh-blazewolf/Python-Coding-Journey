@@ -128,6 +128,7 @@ Added inheritance programs
 --> Used logical operators
 
 **Day 3 Progress**
+--> Learned for and while loops
 
 **AUTHOR**
 
