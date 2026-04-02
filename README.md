@@ -129,6 +129,7 @@ Added inheritance programs
 
 **Day 3 Progress**
 --> Learned for and while loops
+--> Solved 12 problems
 
 **AUTHOR**
 
