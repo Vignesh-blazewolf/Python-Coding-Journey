@@ -134,6 +134,7 @@ Added inheritance programs
 
 **Day 4 Progress**
 --> Learned functions
+--> Practiced 12 examples
 
 **AUTHOR**
 
