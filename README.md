@@ -133,6 +133,7 @@ Added inheritance programs
 --> Built pattern programs
 
 **Day 4 Progress**
+--> Learned functions
 
 **AUTHOR**
 
