@@ -139,6 +139,7 @@ Added inheritance programs
 
 **Day 5 Progress**
 --> Learned dictionaries
+--> Practiced 12 examples
 
 **AUTHOR**
 
