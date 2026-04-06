@@ -138,6 +138,7 @@ Added inheritance programs
 --> Implemented reusable logic
 
 **Day 5 Progress**
+--> Learned dictionaries
 
 **AUTHOR**
 
