@@ -140,6 +140,7 @@ Added inheritance programs
 **Day 5 Progress**
 --> Learned dictionaries
 --> Practiced 12 examples
+--> Implemented real-world use cases
 
 **AUTHOR**
 
