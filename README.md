@@ -142,6 +142,7 @@ Added inheritance programs
 --> Practiced 12 examples
 --> Implemented real-world use cases
 
+day 6 Progress
 **AUTHOR**
 
 **VIGNESHWARAN**
