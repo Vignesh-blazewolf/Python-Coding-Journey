@@ -143,6 +143,7 @@ Added inheritance programs
 --> Implemented real-world use cases
 
 **Day 6 Progress**
+--> Learned sets and tuples
 
 **AUTHOR**
 
