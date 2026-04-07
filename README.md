@@ -144,6 +144,7 @@ Added inheritance programs
 
 **Day 6 Progress**
 --> Learned sets and tuples
+--> Practiced 12 examples
 
 **AUTHOR**
 
