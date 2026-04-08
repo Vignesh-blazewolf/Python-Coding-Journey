@@ -149,6 +149,7 @@ Added inheritance programs
 
 **Day 7 Progress**
 --> Learned string operations
+--> Practiced 12 examples
 
 **AUTHOR**
 
