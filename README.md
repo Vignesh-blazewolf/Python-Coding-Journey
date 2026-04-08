@@ -148,6 +148,7 @@ Added inheritance programs
 --> Understood unique and immutable data
 
 **Day 7 Progress**
+--> Learned string operations
 
 **AUTHOR**
 
