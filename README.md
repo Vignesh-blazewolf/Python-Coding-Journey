@@ -147,6 +147,8 @@ Added inheritance programs
 --> Practiced 12 examples
 --> Understood unique and immutable data
 
+Day 7 Progress
+
 **AUTHOR**
 
 **VIGNESHWARAN**
