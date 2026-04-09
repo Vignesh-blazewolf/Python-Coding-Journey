@@ -153,8 +153,8 @@ Added inheritance programs
 --> Implemented text processing logic
 
 **Day 8 Progress**
---> Learned file 
---> Practiced 12 
+--> Learned file handling
+--> Practiced 12 examples
 --> Implemented file operations
 
 **AUTHOR**
