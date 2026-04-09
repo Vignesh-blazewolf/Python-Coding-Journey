@@ -152,6 +152,8 @@ Added inheritance programs
 --> Practiced 12 examples
 --> Implemented text processing logic
 
+Day 8 Progress
+
 **AUTHOR**
 
 **VIGNESHWARAN**
