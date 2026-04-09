@@ -153,6 +153,7 @@ Added inheritance programs
 --> Implemented text processing logic
 
 **Day 8 Progress**
+--> Learned file handling
 
 **AUTHOR**
 
