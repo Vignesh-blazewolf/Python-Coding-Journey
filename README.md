@@ -154,7 +154,8 @@ Added inheritance programs
 
 **Day 8 Progress**
 --> Learned file 
---> Practiced 12 examples
+--> Practiced 12 
+--> Implemented file operations
 
 **AUTHOR**
 
