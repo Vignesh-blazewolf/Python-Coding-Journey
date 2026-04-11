@@ -158,6 +158,7 @@ Added inheritance programs
 --> Implemented file operations
 
 **Day 9 Progress**
+--> Learned exception handling
 
 **AUTHOR**
 
