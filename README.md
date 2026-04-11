@@ -159,6 +159,7 @@ Added inheritance programs
 
 **Day 9 Progress**
 --> Learned exception handling
+--> Practiced 12 examples
 
 **AUTHOR**
 
