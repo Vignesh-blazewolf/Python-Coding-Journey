@@ -162,7 +162,8 @@ Added inheritance programs
 --> Practiced 12 examples
 --> Handled runtime errors
 
-Day 10 Progress
+**Day 10 Progress**
+
 **AUTHOR**
 
 **VIGNESHWARAN**
