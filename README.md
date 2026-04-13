@@ -164,6 +164,7 @@ Added inheritance programs
 
 **Day 10 Progress**
 -- Learned OOP concepts
+-- Practiced 12 examples
 
 **AUTHOR**
 
