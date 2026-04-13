@@ -163,6 +163,7 @@ Added inheritance programs
 --> Handled runtime errors
 
 **Day 10 Progress**
+-- Learned OOP concepts
 
 **AUTHOR**
 
