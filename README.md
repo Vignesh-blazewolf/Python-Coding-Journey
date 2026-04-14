@@ -185,6 +185,7 @@ A simple Python-based system to manage student records using file handling.
 -- Python
 
 **Learning Outcomes**
+-- File handling
 **AUTHOR**
 
 **VIGNESHWARAN**
