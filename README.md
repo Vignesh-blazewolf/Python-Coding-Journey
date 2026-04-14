@@ -180,6 +180,9 @@ A simple Python-based system to manage student records using file handling.
 -- View all records
 -- Search student by name
 -- File-based data storage
+
+**Technologies Used**
+-- Python
 **AUTHOR**
 
 **VIGNESHWARAN**
