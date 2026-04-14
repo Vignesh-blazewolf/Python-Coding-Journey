@@ -168,7 +168,12 @@ Added inheritance programs
 -- Built class-based programs
 
 **Day 11 Progress**
+
 **Student Management System (Python)**
+
+**Description**
+
+A simple Python-based system to manage student records using file handling.
 
 **AUTHOR**
 
