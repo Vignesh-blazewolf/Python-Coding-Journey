@@ -1,0 +1,8 @@
+Name     Marks
+Arun      85
+Vignesh   90
+Kumar     78
+Divya     88
+Sneha     92
+Rahul     80
+Anu       95
