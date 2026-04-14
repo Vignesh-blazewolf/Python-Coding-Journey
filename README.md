@@ -175,6 +175,8 @@ Added inheritance programs
 
 A simple Python-based system to manage student records using file handling.
 
+**Features**
+
 **AUTHOR**
 
 **VIGNESHWARAN**
