@@ -190,6 +190,8 @@ A simple Python-based system to manage student records using file handling.
 -- Exception handling
 -- CLI-based application
 
+Day 27 Progress
+
 **AUTHOR**
 
 **VIGNESHWARAN**
