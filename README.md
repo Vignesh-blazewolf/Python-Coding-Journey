@@ -191,7 +191,7 @@ A simple Python-based system to manage student records using file handling.
 -- CLI-based application
 
 **Day 12 Progress**
--
+-- Learned inheritance
 -- Implemented inheritance and polymorphism
 
 **AUTHOR**
