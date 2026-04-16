@@ -195,7 +195,7 @@ A simple Python-based system to manage student records using file handling.
 -- Implemented polymorphism
 -- Built real-world class examples
 
-Day 13 Progress
+**Day 13 Progress**
 
 **AUTHOR**
 
