@@ -196,6 +196,7 @@ A simple Python-based system to manage student records using file handling.
 -- Built real-world class examples
 
 **Day 13 Progress**
+-- Built GUI using Tkinter
 
 **AUTHOR**
 
